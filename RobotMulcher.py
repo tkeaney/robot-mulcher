@@ -1,5 +1,3 @@
-# CS3100 - Fall 2023 - Programming Assignment 2
-
 # Sources: Introduction to Algorithms, Cormen, https://stackoverflow.com/questions/3766633/how-to-sort-with-lambda-in-python,
 #################################
 import copy
